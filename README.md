@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Prip_Z)
 <!--
 **Prip-z/Prip-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
