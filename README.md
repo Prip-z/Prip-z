@@ -1,5 +1,5 @@
 ## Hi there 👋
-![LeetCode Stats](https://leetcode-card.vercel.app/dgalifanidov0)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dgalifanidov0)](https://leetcode.com/dgalifanidov0)
 <!--
 **Prip-z/Prip-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
