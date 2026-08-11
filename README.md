@@ -10,8 +10,8 @@
 ### Systems & Hardware Emulation
 * Languages & Tech: Rust, C/C++ — управление памятью, алгоритмические задачи, десктоп
 ## Проекты
-[Эмулятор NES](https://github.com/Prip-z/hitEmu) - эмулятор игровой консоли на Rust
-[Мессенджер Berny](https://github.com/Prip-z/berny) - Активно разрабатывается
+* [Эмулятор NES](https://github.com/Prip-z/hitEmu) - эмулятор игровой консоли на Rust
+* [Мессенджер Berny](https://github.com/Prip-z/berny) - Активно разрабатывается
 ## Достижения
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Prip_Z)](https://leetcode.com/Prip_Z)
 ## Связь
